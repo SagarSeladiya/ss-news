@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Times of Israel"
+      },
+      "author": null,
+      "title": "US admits Israel into Visa Waiver Program in major boost to bilateral ties - The Times of Israel",
+      "description": "Israelis will be able to travel to US visa-free in 2 months after the country meets all requirements, including easing restrictions on Palestinian-Americans",
+      "url": "https://www.timesofisrael.com/us-admits-israel-into-visa-waiver-program-in-major-boost-to-bilateral-ties/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/09/F221231ALA02-e1695807442720-1024x640.jpg",
+      "publishedAt": "2023-09-27T12:01:10Z",
+      "content": "Israel has been admitted into the US Visa Waiver Program (VWP), US President Joe Biden’s administration announced on Wednesday after years of efforts from both governments, solidifying a major boost … [+10688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine war live updates: 'Killed' Russian navy commander appears alive in second video; Belarus says it wants peace in Ukraine - CNBC",
+      "description": "Belarus again ruled out participating in the war in Ukraine alongside Russia, while mystery swirls around the fate of the commander of Russia's Black Sea Fleet.",
+      "url": "https://www.cnbc.com/2023/09/27/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107305044-1695383647223-gettyimages-1682515236-IMG_0938.jpeg?v=1695819419&w=1920&h=1080",
+      "publishedAt": "2023-09-27T11:36:00Z",
+      "content": "Russian Defense Minister Sergei Shoigu announced Tuesday plans to increase the supply of modern weapons to the Russian army, according to comments reported by Russian news agency Interfax.\r\n\"We conti… [+1452 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jackie Wattles, Kristin Fisher",
+      "title": "NASA astronaut Frank Rubio returns from record-setting mission in space - CNN",
+      "description": "NASA’s Frank Rubio broke the record for the longest stay in space by a US astronaut. Now, he’s finally back home.",
+      "url": "https://www.cnn.com/2023/09/27/world/frank-rubio-nasa-return-space-station-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230927081339-07-frank-rubio-returns-0927.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-27T11:36:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nRecord-breaking NASA astronaut Frank Rubio has finally… [+4967 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Bojan Pancevski",
+      "title": "Germany Stalling Long-Range Cruise Missile Delivery to Ukraine - The Wall Street Journal",
+      "description": "The Taurus, one of NATO’s most powerful conventional weapons, could help cut off Russia’s access to Crimea",
+      "url": "https://www.wsj.com/world/europe/germany-stalling-long-range-cruise-missile-delivery-to-ukraine-66354f53",
+      "urlToImage": "https://images.wsj.net/im-854969/social",
+      "publishedAt": "2023-09-27T10:51:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Steve Goldstein",
+      "title": "Good news is bad news for the stock market, and now bad news is bad news, too. - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/the-stock-market-cant-catch-a-break-good-news-is-bad-news-and-now-bad-news-is-bad-news-too-fe9d8183",
+      "urlToImage": "https://images.mktw.net/im-858569/social",
+      "publishedAt": "2023-09-27T10:43:00Z",
+      "content": "Its a rough time in the U.S. stock market.Consider the reports on the economy that trickle in nearly every day. On Thursday, the Labor Department reported a decline in initial jobless claims, to an e… [+4625 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Gawon Bae",
+      "title": "North Korea has decided to ‘expel’ US soldier Travis King, state media reports - CNN",
+      "description": "North Korea has decided “to expel” US Army Private Travis King, who crossed into the North from South Korea during a tour of the joint security area in July, state media KCNA reported on Wednesday.",
+      "url": "https://www.cnn.com/2023/09/27/asia/north-korea-travis-king-expel-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230719122628-01-travis-king.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-27T10:30:00Z",
+      "content": "North Korea has decided to expel US Army Private Travis King, who crossed into the North from South Korea during a tour of the joint security area in July, state media KCNA reported on Wednesday.\r\nTh… [+1651 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Amina Ismail",
+      "title": "Iraq wedding fire kills more than 100 as relatives identify bodies - Reuters",
+      "description": "A fire ripped through a packed wedding hall in northern Iraq late on Tuesday, killing more than 100 people in a Christian town that had survived Islamic State occupation as authorities announced an investigation into the blaze.",
+      "url": "https://www.reuters.com/world/middle-east/least-9-killed-25-injured-fire-wedding-celebration-iraq-health-security-source-2023-09-26/",
+      "urlToImage": "https://www.reuters.com/resizer/TqjURFbq6b7HJ25XcqRPP-1YJCY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4C5P5L457JOXPLS7J454ZVYZFQ.jpg",
+      "publishedAt": "2023-09-27T10:26:42Z",
+      "content": "MOSUL, Iraq, Sept 27 (Reuters) - A fire ripped through a packed wedding hall in northern Iraq late on Tuesday, killing more than 100 people in a Christian town that had survived Islamic State occupat… [+3546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "Jake Rill",
+      "title": "Brooks Robinson dies at 86 - MLB.com",
+      "description": "Brooks Robinson, the legendary third baseman and Hall of Famer affectionately known as \"Mr. Oriole\" for spending his entire 23-year big league career in Baltimore, has died at 86.\n\"All of us at Major League Baseball are saddened by the loss of Brooks Robinson…",
+      "url": "https://www.mlb.com/news/brooks-robinson-dies-at-86",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ydyirwzdulswtdq1e8rn.jpg",
+      "publishedAt": "2023-09-27T10:16:59Z",
+      "content": "Brooks Robinson, the legendary third baseman and Hall of Famer affectionately known as \"Mr. Oriole\" for spending his entire 23-year big league career in Baltimore, has died at 86.\r\n\"All of us at Majo… [+7069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Karandeep Singh",
+      "title": "Use Google Search like it's 1998 to mark its 25th birthday - Android Police",
+      "description": "This website takes you to the time when Google was just an infant",
+      "url": "https://www.androidpolice.com/google-25th-birthday-search-in-1998/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/09/google-at-25-search-from-1998-3.jpg",
+      "publishedAt": "2023-09-27T10:01:00Z",
+      "content": "Google has turned 25! It has become such an ingrained part of our digital lives in all these years that not even a day goes by when we don’t use at least one Google service. The software our phones a… [+4705 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura Paddison",
+      "title": "Britain approves huge, controversial oil and gas field in the North Sea - CNN",
+      "description": "The British government approved the development of a huge oil and gas field in the North Sea Wednesday, sealing its commitment to keep producing fossil fuels for decades to come.",
+      "url": "https://www.cnn.com/2023/09/27/energy/rosebank-oil-gas-field-britain-climate-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230927031258-01-north-sea-oil-rig-021323-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-27T09:15:00Z",
+      "content": "The British government approved the development of a huge oil and gas field in the North Sea Wednesday, sealing its commitment to keep producing fossil fuels for decades to come.\r\nThe Rosebank field,… [+3361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Donald Trump liable for business fraud, says judge in New York civil case - BBC",
+      "description": "The former president was accused of overvaluing his net worth by as much as $ 2.2bn.",
+      "url": "https://www.bbc.com/news/world-us-canada-66931855",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17652/production/_131262859_ec10df05890093f10ef58569e4a742ed0f44535d0_106_5500_30951000x563.jpg",
+      "publishedAt": "2023-09-27T08:24:09Z",
+      "content": "Donald Trump committed fraud by repeatedly misrepresenting his wealth by hundreds of millions of dollars, a New York judge has ruled.\r\nThe ruling, part of a civil case brought against the former pres… [+3470 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "Nothing's budget-friendly brand CMF debuts a $69 smartwatch and $49 earbuds - Engadget",
+      "description": "CMF, the budget-friendly sub-brand Nothing announced back in August, has launched its first products: A smartwatch, a pair of earbuds and a GaN charger.",
+      "url": "https://www.engadget.com/nothings-budget-friendly-brand-cmf-debuts-a-69-smartwatch-and-49-earbuds-072924294.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mtWFpqrrTrLjjGfhC6IbqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/8c606440-5cfe-11ee-9ff3-2dae0a4cddd1",
+      "publishedAt": "2023-09-27T07:29:24Z",
+      "content": "CMF, the budget-friendly sub-brand Nothing announced back in August, has launched its first products: A smartwatch, a pair of earbuds and a GaN charger. The $69 Watch Pro comes with a 1.96-inch AMOLE… [+1474 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jeremy Harlan",
+      "title": "DNA testing leads to exoneration of California man imprisoned nearly 3 decades on kidnapping and sexual assault convictions - CNN",
+      "description": "After a California man spent nearly three decades in prison for kidnapping, sexual assault and robbery convictions, new DNA testing has revealed he was innocent of those crimes, a prosecutor announced.",
+      "url": "https://www.cnn.com/2023/09/27/us/california-man-exonerated-kidnapping-assault-gerardo-cabanillas/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230926174744-02-gerardo-cabanillas.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-27T06:31:00Z",
+      "content": "After a California man spent nearly three decades in prison for kidnapping, sexual assault and robbery convictions, new DNA testing has revealed he was innocent of those crimes, a prosecutor announce… [+2887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Jake Ciely",
+      "title": "Fantasy Football Rankings Week 4: Sleepers, projections, starts, sits | Josh Palmer, Tank Dell and more - The Athletic",
+      "description": "Jake Ciely has his Week 4 fantasy football rankings, game previews, sleepers, buys, sells and more fun!",
+      "url": "https://theathletic.com/4903272/2023/09/27/fantasy-football-rankings-week-4-sleepers-projections-starts-sits/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/26204658/GettyImages-1578981442-scaled.jpg",
+      "publishedAt": "2023-09-27T05:40:40Z",
+      "content": "As we get into the Week 4 fantasy football rankings, sleepers, buys and more team trends and game plans are taking shape. This helps us get a better idea of starts, sits, projections and finding bye-… [+15827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "author": "Georgia Nicols",
+      "title": "Horoscope for Wednesday, September 27, 2023 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/2023/9/27/23884723/horoscopes-today-wednesday-september-27-2023",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2e2d244/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FimLIXuLNbBZqOhsJfVPqgZPkTsE%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24941942%2FGeorgia_mug.jpeg",
+      "publishedAt": "2023-09-27T05:03:30Z",
+      "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Pisces.\r\nAries (March 21-April 19)\r\nYou feel hopeful. It might be a private feeling you have; nevertheless, it… [+3765 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "The WGA strike ends with protections against AI set in place - Engadget",
+      "description": "The Writers Guild of America (WGA) has voted to officially lift its strike order, over half a year since it stopped work and demanded a better contract with ...",
+      "url": "https://www.engadget.com/the-wga-strike-ends-with-protections-against-ai-set-in-place-050019363.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iNKuhv6Vu1oNuK68c2qT.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/2bcacb30-5ce9-11ee-8fff-5524b624fd29",
+      "publishedAt": "2023-09-27T05:00:00Z",
+      "content": "The Writers Guild of America (WGA) has voted to officially end its strike, almost five months since it stopped work and demanded a better contract with the Alliance of Motion Picture and Television P… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Philadelphia Inquirer"
+      },
+      "author": "Ellie Rushing, Robert Moran",
+      "title": "At least 20 arrested as groups break into stores, vandalize businesses across Philadelphia, police say - The Philadelphia Inquirer",
+      "description": "The looting stretched from Center City to North Philadelphia, police said.",
+      "url": "https://www.inquirer.com/news/philadelphia/center-city-police-teens-stealing-apple-store-20230926.html",
+      "urlToImage": "https://www.inquirer.com/resizer/Eq7EeTZUCzY8sPAtXwFn03zH2RM=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/4AOYHVD3S5AT3CSMETQBMFRHLU.jpg",
+      "publishedAt": "2023-09-27T04:45:40Z",
+      "content": "Large groups of young people broke into numerous stores across Philadelphia Tuesday night, stealing merchandise and vandalizing property, Acting Police Commissioner John Stanford said.\r\nBy midnight, … [+3682 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Asteroid ‘dust, debris’ likely found as returned NASA space capsule opened - Al Jazeera English",
+      "description": "Dark powder, sand-sized particles found as lid opened on Osiris-REx space probe which collected samples from asteroid.",
+      "url": "https://www.aljazeera.com/news/2023/9/27/asteroid-dust-debris-likely-found-as-returned-nasa-space-capsule-opened",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/afp.com-20230924-PH-GTY-1687008696-highres-1695787252.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-09-27T04:19:12Z",
+      "content": "Scientists at the United States space agency NASA found black dust and debris when they opened the space capsule that recently returned to Earth with the largest asteroid sample ever brought back fro… [+3431 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Faris Tanyos",
+      "title": "Wael Hana, co-defendant in Robert Menendez case, arrested at JFK - CBS News",
+      "description": "He is one of three businessmen federally charged with coordinating hundreds of thousands of dollars in bribes to Democratic Sen. Robert Menendez of New Jersey and his wife.",
+      "url": "https://www.cbsnews.com/news/robert-menendez-wael-hana-co-defendant-bribery-case-arrested-jfk-new-york-egypt/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/27/955b468b-b353-4086-988a-766ea5ddfd3f/thumbnail/1200x630/64bb1d0a45694b6e6a2b95a2e89bfdd4/gettyimages-1690041865.jpg?v=cc1d20369924eaddf626a3a17b75fcb0",
+      "publishedAt": "2023-09-27T03:56:00Z",
+      "content": "One of three businessmen federally charged with coordinating hundreds of thousands of dollars in bribes to Democratic Sen. Robert Menendez of New Jersey and his wife was arrested Tuesday after flying… [+2795 chars]"
+    }
+  ]
+}
